@@ -1,10 +1,10 @@
 import Layout from '@/layout'
 
-export default function Home({ children }) {
+export default function Profile({ children }) {
   return (
     <>
       <Layout>
-        <p>Home</p>
+        <p>Profile</p>
       </Layout>
     </>
   )
